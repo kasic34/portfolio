@@ -5,18 +5,6 @@
 /* Fonts */
 @import "./../fonts/roboto/roboto.css";
 
-
-/*.header{
-    padding-top: 30px;
-    height: 750px;
-    background-image: image-set(
-        url("./../img/fon.jpg") 1x,
-        url("./../img/fon@2x.jpg") 2x
-    );
-    background-repeat: no-repeat;
-    background-size: cover;
-}*/
-
 .header-row{
     display: flex;
     justify-content: center;
