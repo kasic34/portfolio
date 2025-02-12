@@ -1,0 +1,28 @@
+body {
+   background-color: #1F2A32; 
+   color: #ffffff;
+   font-family: var(--font-robo);
+   font-weight: 300;
+
+   
+    padding-top: 30px;
+    height: 750px;
+    background-image: image-set(
+        url("./../../img/fon.jpg") 1x,
+        url("./../../img/fon@2x.jpg") 2x
+    );
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: underline;
+} 
+
+.container{
+    padding: 0 15px;
+    margin: 0 auto;
+    max-width: 1145px;
+    width: 100%;
+}
