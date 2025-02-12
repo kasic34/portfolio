@@ -1,3 +1,8 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
 :root{
     --accent: #FFD479;
     --font-robo: 'Roboto', sans-serif;
